@@ -51,6 +51,7 @@ A full-stack collaborative IDE in the browser. Multiple users, one room, zero la
 - 🤖 **AI Copilot** powered by Groq LLaMA 3 — generate, explain, debug, optimize
 - 🎨 **40+ themes**, collaborative whiteboard (tldraw), version history with snapshots
 - 📁 Multi-file collaboration, folder uploads, ZIP export — all synced in real time
+- 🔗 [**Live Demo →**](https://devsync-368a5fbtw-luckysharma06102004-stacks-projects.vercel.app/)
 
 ---
 
@@ -63,6 +64,7 @@ An intelligent resume builder that goes beyond templates — it thinks with you.
 - 🔐 JWT + bcrypt auth with secure resume management
 - 📤 AI-powered resume import via structured JSON extraction
 - 🔗 Public shareable links with ImageKit CDN for fast media delivery
+- 🔗 [**Live Demo →**](https://whimsical-kringle-a42968.netlify.app/)
 
 ---
 
@@ -75,6 +77,7 @@ Practice interviews with an AI that evaluates like a real interviewer.
 - 🎙️ Browser-native Web Speech API — no external transcription needed
 - 📊 Per-answer scoring (10-point scale) + detailed feedback + trend analytics
 - 🔄 4-module decoupled pipeline: questions → voice → evaluation → analytics
+- 🔗 [**Live Demo →**](https://ai-mock-interview-lucky.netlify.app/)
 
 ---
 
