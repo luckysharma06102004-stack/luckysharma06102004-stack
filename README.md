@@ -25,7 +25,7 @@
 ```typescript
 const lucky: Developer = {
   location:   "Bhubaneswar, Odisha, India 🇮🇳",
-  education:  "B.Tech CSE @ KIIT University  |  CGPA: 8.94 / 10",
+  education:  "B.Tech CSE @ KIIT University  |  CGPA: 9.07 / 10",
   focus:      ["Full Stack Development", "AI-Integrated Apps", "Cloud Computing"],
   currently:  "Building DevSync — a real-time collaborative code editor",
   funFact:    "I ship features faster than my coffee cools down ☕",
